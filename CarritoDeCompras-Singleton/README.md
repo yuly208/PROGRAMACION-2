@@ -1,11 +1,10 @@
-# Pizzeria
+# CarritoDeCompras-Singleton
 
-Abstract factory 
+Singleton
 
 # Autores
 
-- Yulian Stiven Diaz Pulido
-
+Yulian Stiven Diaz Pulido
 
 # Herramientas
 
@@ -37,5 +36,5 @@ Para generar el jar puede usar el comando:
 y para ejecutar el jar
 
 ```shell
- java -jar target/Pizzeria-1.0-SNAPSHOT.jar
+ java -jar target/CarritoDeCompras-Singleton-1.0-SNAPSHOT.jar
 ```
