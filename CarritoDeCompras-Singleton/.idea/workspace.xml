@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb82d31d-7463-411e-a50e-b81268d7757d" name="Changes" comment="Actividad Restaurante (Builder)" />
+    <list default="true" id="96989e9b-48b9-4e2e-9bac-1d1b43ea85c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/poo/Main/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/poo/model/CarritoCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/edu/uniquindio/poo/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Restaurante-Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Restaurante-Builder/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -26,9 +45,12 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="3AcyFOF5oQreSl5N4s8JW2LBPhs" />
+  <component name="ProjectId" id="3AczX70HPHKC5L8fIL3CD0JY79R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,10 +71,25 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yuliann\Desktop\UNIVERSIDAD\3 SEMESTRE\PROGRAMACION 2\PROGRAMACION-2\Restaurante-Builder\src\main\java\co\edu\uniquindio\poo\model" />
-    </key>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquindio.poo.Main.App" />
+      <module name="CarritoDeCompras-Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquindio.poo.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -64,29 +101,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fb82d31d-7463-411e-a50e-b81268d7757d" name="Changes" comment="" />
-      <created>1772906050480</created>
+      <changelist id="96989e9b-48b9-4e2e-9bac-1d1b43ea85c8" name="Changes" comment="" />
+      <created>1772906683352</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772906050480</updated>
-      <workItem from="1772906053668" duration="627000" />
+      <updated>1772906683352</updated>
+      <workItem from="1772906684660" duration="2211000" />
     </task>
-    <task id="LOCAL-00001" summary="Actividad Restaurante (Builder)">
-      <option name="closed" value="true" />
-      <created>1772906272506</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1772906272506</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Actividad Restaurante (Builder)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividad Restaurante (Builder)" />
   </component>
 </project>
